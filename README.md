@@ -1,13 +1,9 @@
 # django-website
 Developed by Manish Thirani 
 
-# Help
-Harry Bhai
-Thanks For Helping
+# Output
 
-Follow Ig:- https://www.instagram.com/codewithharry
-
-GitHub:- https://github.com/CodeWithHarry
+![django 1](https://user-images.githubusercontent.com/73772706/137751452-ee2dd7d6-7eea-49b3-b732-208557c9436a.jpg)
 
 # Admin
 $ username:- heroisgreat
