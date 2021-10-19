@@ -8,7 +8,7 @@ Developed by Manish Thirani
 # Admin
 $ username:- heroisgreat
 
-$ passwoed:- Manish123
+$ password:- Manish123
 # FollowMe
 Ig:- https://instagram.com/manish_heroisgreat_20
 
